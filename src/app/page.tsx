@@ -1,7 +1,7 @@
 import SectionHero from "@/components/SectionHero";
 import SectionProblem from "@/components/SectionProblem";
 import SectionConstellation from "@/components/SectionConstellation";
-import SectionMetaphor from "@/components/SectionMetaphor";
+import KintsugiAnimation from "@/components/KintsugiAnimation";
 import SectionApproach from "@/components/SectionApproach";
 import SectionServices from "@/components/SectionServices";
 import SectionValues from "@/components/SectionValues";
@@ -14,7 +14,7 @@ export default function Home() {
       <SectionHero />
       <SectionProblem />
       <SectionConstellation />
-      <SectionMetaphor />
+      <KintsugiAnimation />
       <SectionApproach />
       <SectionServices />
       <SectionValues />
